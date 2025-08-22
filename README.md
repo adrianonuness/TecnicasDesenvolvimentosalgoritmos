@@ -1,4 +1,4 @@
-# 🧠 Técnicas de Desenvolvimento de Algoritmos#
+# 🧠 Técnicas de Desenvolvimento de Algoritmos #
 
 Repositório criado para armazenar os exercícios, projetos e materiais desenvolvidos na disciplina **Técnicas de Desenvolvimento de Algoritmos**.
 
