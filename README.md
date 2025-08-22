@@ -22,15 +22,10 @@ A disciplina tem como objetivo desenvolver a capacidade de raciocínio lógico, 
 ├── docs/               # Materiais complementares e anotações
 └── README.md           # Este arquivo
 
-Você disse:
-elabore um read me em markdowm para o github para a disciplina de técnicas de desenvolvimento de algortimos
-
-O ChatGPT disse:
-Com certeza! Um README bem estruturado e claro pode fazer toda a diferença — seja para os colegas, professores ou para seu próprio aprendizado. Aqui vai um modelo em Markdown para um curso como “Técnicas de Desenvolvimento de Algoritmos”, com base nas boas práticas recomendadas pela comunidade e pela documentação sobre READMEs:
 
 Modelo README.md para o curso Técnicas de Desenvolvimento de Algoritmos
 markdown
-Copiar código
+
 # Técnicas de Desenvolvimento de Algoritmos
 
 **Descrição:**  
