@@ -1,76 +1,50 @@
 # 🧠 Técnicas de Desenvolvimento de Algoritmos #
 
-Repositório criado para armazenar os exercícios, projetos e materiais desenvolvidos na disciplina **Técnicas de Desenvolvimento de Algoritmos**.
+Bem-vindo(a) ao repositório da disciplina de Técnicas de Desenvolvimento de Algoritmos!
 
-## 📚 Sobre a disciplina
+Este repositório foi criado para armazenar e organizar os materiais, códigos e exercícios desenvolvidos ao longo do curso. Ele serve como um guia de referência e um portfólio dos conceitos e técnicas aprendidos.
 
-A disciplina tem como objetivo desenvolver a capacidade de raciocínio lógico, solução de problemas computacionais e implementação de algoritmos utilizando uma linguagem de programação. São abordados conceitos fundamentais da lógica de programação, estruturas de controle, estruturas de dados básicas, funções e técnicas de decomposição de problemas.
+📚 Conteúdo
+Aqui você encontrará uma variedade de recursos, organizados por tópicos para facilitar a navegação:
 
-## 🛠️ Tecnologias e ferramentas
+Fundamentos: Revisão de estruturas de dados básicas (listas, pilhas, filas) e introdução à análise de complexidade de algoritmos (notações Big O, Big Ω, Big Θ).
 
-- Linguagem: `Python` *(ou substitua por C, Java, etc.)*
-- Editor: `VS Code`, `IDLE`, ou outro
-- Controle de versão: `Git` e `GitHub`
+Algoritmos de Busca: Implementações de busca linear e binária, com análise de suas eficiências.
 
-## 📁 Estrutura do repositório
+Algoritmos de Ordenação: Diversos algoritmos de ordenação, como Bubble Sort, Selection Sort, Insertion Sort, Merge Sort e Quick Sort, com comparações de suas performances.
 
-```bash
-.
-├── listas/             # Listas de exercícios resolvidos
-├── projetos/           # Mini projetos e desafios práticos
-├── exemplos/           # Exemplos de aula e códigos de apoio
-├── docs/               # Materiais complementares e anotações
-└── README.md           # Este arquivo
+Grafos: Representações de grafos (matriz de adjacência, lista de adjacência) e algoritmos de travessia (BFS e DFS).
 
+Programação Dinâmica: Exemplos e soluções para problemas clássicos que utilizam a técnica de programação dinâmica.
 
-Modelo README.md para o curso Técnicas de Desenvolvimento de Algoritmos
-markdown
+Cada pasta de tópico contém:
 
-# Técnicas de Desenvolvimento de Algoritmos
+README.md: Uma breve descrição dos conceitos abordados e dos problemas resolvidos.
 
-**Descrição:**  
-Este repositório reúne exercícios, projetos e implementações de algoritmos aplicados no curso “Técnicas de Desenvolvimento de Algoritmos”. Objetiva documentar estratégias, estruturas de dados e boas práticas aprendidas ao longo do semestre.
+código_fonte/: Arquivos de código com as implementações dos algoritmos e das estruturas de dados.
 
----
+exercícios/: Resoluções dos exercícios propostos em sala de aula ou como tarefa.
 
-##  Índice
+🤝 Contribuição
+Sinta-se à vontade para explorar, estudar e até mesmo contribuir para este repositório. Se você encontrar algum erro, tiver sugestões de melhoria ou quiser adicionar suas próprias soluções, siga os passos abaixo:
 
-- [Sobre](#sobre)  
-- [Conteúdo](#conteúdo)  
-- [Como Executar](#como-executar)  
-- [Técnicas e Ferramentas Utilizadas](#técnicas-e-ferramentas-utilizadas)  
-- [Exemplos de Uso](#exemplos-de-uso)  
-- [Aprendizado e Desafios](#aprendizado-e-desafios)  
-- [Próximos Passos](#próximos-passos)  
-- [Licença](#licença)  
-- [Autor](#autor)
+Faça um Fork deste repositório.
 
----
+Crie uma nova branch para a sua funcionalidade (git checkout -b minha-nova-feature).
 
-##  Sobre
+Faça o commit de suas alterações (git commit -am 'Adicionando nova feature').
 
-Breve introdução ao propósito do repositório:
+Envie para a branch (git push origin minha-nova-feature).
 
-Este projeto agrupa diferentes implementações e análises de algoritmos vistos durante a disciplina, como ordenação (QuickSort, MergeSort), estruturas de dados (pilhas, filas, grafos) e técnicas de otimização. Serve como catálogo de referência e aprendizado prático.
+Crie um novo Pull Request.
 
----
+📝 Licença
+Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo LICENSE.md.
 
-##  Conteúdo
-
-- `exercicios/` – códigos de exercícios propostos em aula  
-- `projetos/` – pequenos projetos que combinam múltiplos algoritmos  
-- `notas/` – resumos teóricos, diagramas e comentários explicativos  
-- `tests/` – testes de unidade para validar implementações
-
----
-
-##  Como Executar
-
-**Pré-requisitos:**  
-- Python 3.8+ (ou outra linguagem, conforme o caso)  
-- Módulos:
-  ```bash
-  pip install pytest numpy
+Professor(a): [Nome do Professor(a)]
+Aluno(a): [Seu Nome Completo]
+Matrícula: [Sua Matrícula]
+Universidade: [Nome da Sua Universidade]
 
 
 
