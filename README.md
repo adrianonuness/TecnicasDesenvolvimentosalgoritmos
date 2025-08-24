@@ -1,50 +1,78 @@
 # 🧠 Técnicas de Desenvolvimento de Algoritmos #
 
-Bem-vindo(a) ao repositório da disciplina de Técnicas de Desenvolvimento de Algoritmos!
+Bem-vindo à disciplina **Técnicas de Desenvolvimento de Algoritmos**! Este repositório contém materiais, exemplos de código, exercícios e orientações para o estudo e aplicação dos principais conceitos relacionados à construção de algoritmos eficientes e estruturados.
 
-Este repositório foi criado para armazenar e organizar os materiais, códigos e exercícios desenvolvidos ao longo do curso. Ele serve como um guia de referência e um portfólio dos conceitos e técnicas aprendidos.
+## Objetivo da Disciplina
 
-📚 Conteúdo
-Aqui você encontrará uma variedade de recursos, organizados por tópicos para facilitar a navegação:
+Capacitar o estudante a:
+- Compreender os princípios fundamentais de algoritmos;
+- Aplicar técnicas de desenvolvimento e análise de algoritmos para resolução de problemas;
+- Utilizar boas práticas de programação e documentação.
 
-Fundamentos: Revisão de estruturas de dados básicas (listas, pilhas, filas) e introdução à análise de complexidade de algoritmos (notações Big O, Big Ω, Big Θ).
+## Conteúdo Programático
 
-Algoritmos de Busca: Implementações de busca linear e binária, com análise de suas eficiências.
+1. **Introdução a Algoritmos**
+   - Definição de algoritmo
+   - Representação: fluxogramas, pseudocódigo
+2. **Estruturas de Controle**
+   - Sequência
+   - Seleção (if/else, switch)
+   - Repetição (for, while, do-while)
+3. **Estruturas de Dados Básicas**
+   - Variáveis e constantes
+   - Vetores e matrizes
+   - Registros (structs)
+4. **Funções e Modularização**
+   - Declaração e chamada de funções
+   - Passagem de parâmetros
+   - Escopo de variáveis
+5. **Recursão**
+   - Conceito e exemplos
+   - Comparação com laços de repetição
+6. **Técnicas de Resolução de Problemas**
+   - Decomposição
+   - Busca e ordenação
+   - Algoritmos clássicos
 
-Algoritmos de Ordenação: Diversos algoritmos de ordenação, como Bubble Sort, Selection Sort, Insertion Sort, Merge Sort e Quick Sort, com comparações de suas performances.
+## Metodologia
 
-Grafos: Representações de grafos (matriz de adjacência, lista de adjacência) e algoritmos de travessia (BFS e DFS).
+- Aulas expositivas e práticas;
+- Resolução de exercícios;
+- Projetos individuais e em grupo;
+- Avaliações teóricas e práticas.
 
-Programação Dinâmica: Exemplos e soluções para problemas clássicos que utilizam a técnica de programação dinâmica.
+## Ferramentas Utilizadas
 
-Cada pasta de tópico contém:
+- Linguagem de programação (C, Python, ou outra indicada pelo professor);
+- IDEs e editores de código (Visual Studio Code, Code::Blocks, etc);
+- Plataformas para submissão de exercícios e projetos.
 
-README.md: Uma breve descrição dos conceitos abordados e dos problemas resolvidos.
+## Como Utilizar Este Repositório
 
-código_fonte/: Arquivos de código com as implementações dos algoritmos e das estruturas de dados.
+1. **Clonando o repositório**
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. **Acessando os materiais**
+   - Os arquivos de cada módulo estão organizados por pastas.
+   - Leia sempre o arquivo `README.md` de cada módulo para orientações específicas.
+3. **Contribuindo**
+   - Sinta-se à vontade para sugerir melhorias ou enviar pull requests com correções e novos exemplos.
 
-exercícios/: Resoluções dos exercícios propostos em sala de aula ou como tarefa.
+## Recomendações
 
-🤝 Contribuição
-Sinta-se à vontade para explorar, estudar e até mesmo contribuir para este repositório. Se você encontrar algum erro, tiver sugestões de melhoria ou quiser adicionar suas próprias soluções, siga os passos abaixo:
+- Pratique diariamente a implementação dos algoritmos estudados.
+- Consulte materiais de apoio e participe dos fóruns de discussão.
+- Documente bem seu código e explique suas soluções.
 
-Faça um Fork deste repositório.
+## Contato
 
-Crie uma nova branch para a sua funcionalidade (git checkout -b minha-nova-feature).
+Para dúvidas e sugestões, entre em contato com o professor ou abra uma issue neste repositório.
 
-Faça o commit de suas alterações (git commit -am 'Adicionando nova feature').
+---
 
-Envie para a branch (git push origin minha-nova-feature).
+Bons estudos e sucesso na disciplina!
 
-Crie um novo Pull Request.
-
-📝 Licença
-Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo LICENSE.md.
-
-Professor(a): [Nome do Professor(a)]
-Aluno(a): [Seu Nome Completo]
-Matrícula: [Sua Matrícula]
-Universidade: [Nome da Sua Universidade]
 
 
 
